@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nishanta Kakati
-- 👀 I’m interested in Computers
-- 🌱 I’m currently learning Bachelor of Computer Science
+- 👋 Hi, I’m @Nishanta Kakati.
+- 👀 I’m interested in Computer Science.
+- 🌱 I’m currently learning Bachelor of Computer Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
