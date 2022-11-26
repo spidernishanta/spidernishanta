@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nishanta Kakati.
 - 👀 I’m interested in Cyber Security.
-- 🌱 I’m currently learning (ISC)2 CC.
+- 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on Cyber Security.
 - 📫 How to reach me https://spidernishanta.github.io
 
