@@ -18,6 +18,8 @@
 
 - 📄 Know about my work & experiences [My Resume](https://spidernishanta.github.io/images/Nishanta%20Kakati's%20Resume.pdf)
 
+- 📄 Check my programming performance [![wakatime](https://wakatime.com/badge/user/f9e4ae6a-d399-4c22-a6f1-645d0fe19421.svg)](https://wakatime.com/@f9e4ae6a-d399-4c22-a6f1-645d0fe19421)
+
 
 ### What can I help with:question::cyclone:
 <code>git commit -m "All about GitHub!"</code> :grin:
