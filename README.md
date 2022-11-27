@@ -20,7 +20,7 @@
 
 - ⚡ Check out my programming performance [![wakatime](https://wakatime.com/badge/user/f9e4ae6a-d399-4c22-a6f1-645d0fe19421.svg)](https://wakatime.com/@f9e4ae6a-d399-4c22-a6f1-645d0fe19421)
 
-- ⚡ Check out my coding profiles <a href="https://www.codechef.com/users/spider4" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="spider4" height="120" width="100" /></a>
+- ⚡ Check out my coding profiles <a href="https://www.codechef.com/users/spider4" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="spider4" height="120" width="100" /></a> || <a href="https://leetcode.com/spider4" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="spider4" height="120" width="100" /></a>
 
 ### What can I help with:question::cyclone:
 <code>git commit -m "All about GitHub!"</code> :grin:
