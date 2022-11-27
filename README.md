@@ -26,4 +26,5 @@
 <p align="left">
 <a href="https://twitter.com/KakatiNishanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spidernishanta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/spider004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spidernishanta" height="30" width="40" /></a>
+<a href="https://wa.me/+916003644157" target="blank"><img align="center" src="https://github.com/Templarian/MaterialDesign/blob/master/svg/whatsapp.svg" alt="spidernishanta" height="30" width="40" /></a>
 </p>
