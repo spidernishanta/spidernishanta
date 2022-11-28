@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/KakatiNishanta" target="blank"><img src="https://img.shields.io/twitter/follow/KakatiNishanta?logo=twitter&style=for-the-badge" alt="spidernishanta" /></a> </p>
 
 
-- 👨‍💻 All about me is at [My Website](https://spidernishanta.github.io/)
+- 👨‍💻 All about me is at [My Portfolio Website](https://spidernishanta.github.io/)
 
 - 📝 Sometimes I write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/spider004/articles)
 
