@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nishantann@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume](https://spidernishanta.github.io/images/Nishanta%20Kakati's%20Resume.pdf)
+- 📄 Know about my work & experiences [My Resume](https://spidernishanta.github.io/images/Nishanta_Software%20Developer.pdf)
 
 - ⚡ Check out my programming performance [![wakatime](https://wakatime.com/badge/user/f9e4ae6a-d399-4c22-a6f1-645d0fe19421.svg)](https://wakatime.com/@f9e4ae6a-d399-4c22-a6f1-645d0fe19421)
 
